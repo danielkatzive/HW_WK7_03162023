@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+*.xlxs
+*.csv
 
 # Distribution / packaging
 .Python
